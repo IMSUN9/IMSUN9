@@ -331,11 +331,11 @@ AI를 단순 코드 생성 도구로만 사용하지 않고,
 
 <br/>
 
-<h2 align="center">Contribution Map</h2>
+<h2 align="center">Contribution City</h2>
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="95%" />
 
 </div>
 
