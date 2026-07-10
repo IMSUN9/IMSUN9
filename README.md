@@ -335,7 +335,12 @@ AI를 단순 코드 생성 도구로만 사용하지 않고,
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/F778BA/IMSUN9" width="95%" alt="IMSUN9 GitHub Contributions" />
+<img src="https://ghchart.rshah.org/FF1493/IMSUN9" width="95%" alt="IMSUN9 GitHub Contributions" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IMSUN9&bg_color=0D1117&color=FCE7F3&line=FF1493&point=FF69B4&area=true&area_color=FF1493&hide_border=true" width="95%" alt="IMSUN9 GitHub Activity Graph" />
 
 <br/>
 <br/>
@@ -343,7 +348,6 @@ AI를 단순 코드 생성 도구로만 사용하지 않고,
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Map" />
 
 </div>
-
 ---
 
 <br/>
