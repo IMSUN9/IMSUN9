@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:38BDF8&height=260&section=header&text=IM%20SUNGU&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Reliable%20Systems&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:38BDF8&height=270&section=header&text=IM%20SUNGU&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Reliable%20Systems&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Developer+in+Progress;Build+it.+Understand+it.+Finish+it.;Designing+Reliable+Order+and+Payment+Flows;Kafka+%2B+Outbox+%2B+Concurrency+Control;%EB%81%9D%EA%B9%8C%EC%A7%80+%EA%B0%80%EB%A9%B4+%EB%82%B4%EA%B0%80+%EB%8B%A4+%EC%9D%B4%EA%B2%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+in+Progress;Build+it.+Understand+it.+Finish+it.;Designing+Reliable+Order+and+Payment+Flows;Spring+Boot+%2B+JPA+%2B+MySQL+%2B+Kafka;%EB%81%9D%EA%B9%8C%EC%A7%80+%EA%B0%80%EB%A9%B4+%EB%82%B4%EA%B0%80+%EB%8B%A4+%EC%9D%B4%EA%B2%A8" />
 
 <br/>
 <br/>
@@ -83,6 +83,7 @@
 <img src="https://img.shields.io/badge/Outbox_Pattern-38BDF8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Facade_Pattern-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pessimistic_Lock-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis_Lock-DC382D?style=flat-square"/>
 
 </div>
 
@@ -90,7 +91,7 @@
 
 <br/>
 
-<h2 align="center">Featured Backend Projects</h2>
+<h2 align="center">Pinned Backend Projects</h2>
 
 <table>
   <tr>
@@ -150,57 +151,106 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">JWT Calendar</h3>
+      <h3 align="center">Sparta Payment System Starter</h3>
       <p align="center">
-        <b>JWT 인증 기반 일정 관리 웹앱</b>
+        <b>Spring 결제 시스템 학습 Starter 프로젝트</b>
       </p>
       <p>
-        사용자 인증과 일정 관리를 결합한 웹 프로젝트입니다. 로그인 후 사용자별 일정을 저장하고 관리할 수 있도록 구현했습니다.
+        커머스 결제 시스템 구조를 학습하기 위한 Starter 프로젝트입니다. 결제 흐름, 주문 흐름, 도메인 분리 구조를 익히는 기반 프로젝트입니다.
       </p>
       <ul>
-        <li>회원가입 / 로그인</li>
-        <li>JWT 기반 인증/인가</li>
-        <li>사용자별 일정 CRUD</li>
-        <li>일정 완료, 검색, 통계 기능</li>
-        <li>프론트엔드와 백엔드 직접 연동</li>
+        <li>Spring Boot 기반 결제 시스템 구조 학습</li>
+        <li>주문/결제 도메인 흐름 이해</li>
+        <li>JPA 기반 데이터 저장 흐름 학습</li>
+        <li>커머스 백엔드 구조 실습</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/IMSUN9/Schedule2">
+        <a href="https://github.com/IMSUN9/sparta-payment-system-starter">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Team Profile API</h3>
+      <h3 align="center">Payment System Project</h3>
       <p align="center">
-        <b>AWS 기반 프로필 업로드 API</b>
+        <b>팀 프로젝트 · 스파르타 스프링 발전 결제 시스템</b>
       </p>
       <p>
-        EC2, RDS, S3 Presigned URL, SES를 활용해 팀 프로필 업로드 및 이메일 전송 흐름을 구현한 프로젝트입니다.
+        결제 시스템 흐름을 팀 단위로 구현하며 주문, 결제, 포인트, 환불과 같은 커머스 핵심 도메인을 다룬 프로젝트입니다.
       </p>
       <ul>
-        <li>EC2 애플리케이션 배포</li>
-        <li>RDS MySQL 연결</li>
-        <li>S3 Presigned URL 업로드</li>
-        <li>SES 이메일 전송</li>
-        <li>AWS Budget 알림 설정</li>
+        <li>커머스 결제 흐름 구현</li>
+        <li>포인트 및 환불 도메인 설계</li>
+        <li>주문 상태와 결제 상태 흐름 관리</li>
+        <li>팀 컨벤션 기반 협업 경험</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/IMSUN9/team-profile-api">
+        <a href="https://github.com/kolyn092/payment-system-project">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Spring BackOffice</h3>
+      <p align="center">
+        <b>E-Commerce BackOffice Management System</b>
+      </p>
+      <p>
+        이커머스 운영 관리를 위한 BackOffice 시스템입니다. 주문, 상품, 관리 기능을 중심으로 백오피스 도메인 흐름을 경험한 팀 프로젝트입니다.
+      </p>
+      <ul>
+        <li>이커머스 백오피스 구조 경험</li>
+        <li>주문 도메인 흐름 구현</li>
+        <li>상태 전이와 검증 로직 처리</li>
+        <li>팀 프로젝트 협업 및 코드 리뷰 경험</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/silverThunder09/spring-backoffice">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">KBU</h3>
+      <p align="center">
+        <b>School Project</b>
+      </p>
+      <p>
+        학습 과정에서 진행한 Java 기반 프로젝트입니다. 기본 문법, 객체지향 구조, 프로젝트 단위 구현 경험을 쌓은 저장소입니다.
+      </p>
+      <ul>
+        <li>Java 기반 프로젝트 구현</li>
+        <li>객체지향 프로그래밍 학습</li>
+        <li>기능 단위 코드 작성 경험</li>
+        <li>기초 개발 흐름 정리</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOP-8B5CF6?style=flat-square"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/IMSUN9/KBU">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -239,6 +289,18 @@
 
 <br/>
 
+<h2 align="center">Contribution Map</h2>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+
+</div>
+
+---
+
+<br/>
+
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
@@ -250,11 +312,6 @@
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMSUN9&theme=tokyonight" width="90%" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IMSUN9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="95%" />
 
 </div>
 
