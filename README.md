@@ -331,11 +331,16 @@ AI를 단순 코드 생성 도구로만 사용하지 않고,
 
 <br/>
 
-<h2 align="center">Knowledge Topography</h2>
+<h2 align="center">Contribution Garden</h2>
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+<img src="https://ghchart.rshah.org/F778BA/IMSUN9" width="95%" alt="IMSUN9 GitHub Contributions" />
+
+<br/>
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Map" />
 
 </div>
 
