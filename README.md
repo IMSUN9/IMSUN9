@@ -168,9 +168,8 @@
         <li>커머스 백엔드 구조 실습</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Study-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://github.com/IMSUN9/sparta-payment-system-starter">
@@ -289,6 +288,49 @@
 
 <br/>
 
+<h2 align="center">AI-Assisted Development</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Design</h3>
+      <p>AI를 활용해 기능 흐름, 도메인 분리, 트랜잭션 경계를 먼저 검토합니다.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Debugging</h3>
+      <p>에러 로그와 테스트 실패 원인을 분석하고, 문제를 단계별로 좁혀갑니다.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Code Review</h3>
+      <p>구현 후 구조, 책임 분리, 예외 처리, DB 리소스 사용 관점에서 코드를 점검합니다.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Documentation</h3>
+      <p>README, API 명세, 트러블슈팅 기록을 정리하며 학습 내용을 문서화합니다.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Pair_Programming-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+```text
+AI를 단순 코드 생성 도구로만 사용하지 않고,
+설계 방향 검토, 에러 분석, 테스트 전략 수립, 문서화에 함께 활용하며 개발 흐름을 개선하고 있습니다.
+```
+
+---
+
+<br/>
+
 <h2 align="center">Contribution Map</h2>
 
 <div align="center">
@@ -301,17 +343,23 @@
 
 <br/>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Dashboard</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IMSUN9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMSUN9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" />
-
-<br/>
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMSUN9&theme=tokyonight" width="90%" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMSUN9&theme=tokyonight" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMSUN9&theme=tokyonight" width="44%" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMSUN9&theme=tokyonight" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMSUN9&theme=tokyonight&utcOffset=9" width="44%" />
 
 </div>
 
